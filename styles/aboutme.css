@@ -1,0 +1,40 @@
+@font-face{
+    font-family: Craft;
+    src: url(../fonts/Minecrafter.Alt.ttf);
+}
+body{
+    background-image: url("../images/minecraftbackground.png");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: Craft;
+    font-size: 6rem;
+    color: rgba(59, 59, 59, 0.918);
+    box-shadow: 4px 4px 4px 4px black;
+    width: 40rem;
+    position: relative;
+    top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.accordion{
+    width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.accordion-item{
+    background-color: rgb(177, 177, 177);
+}
+h3{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left:7rem;
+    font-family: Craft;
+}
