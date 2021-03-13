@@ -10,7 +10,7 @@ h1{
     text-align: center;
     font-family: Craft;
     font-size: 6rem;
-    color: rgba(59, 59, 59, 0.918);
+    color: black(112, 112, 112, 0.918);
     box-shadow: 4px 4px 4px 4px black;
     width: 40rem;
     position: relative;
@@ -37,4 +37,27 @@ h3{
     position: relative;
     left:7rem;
     font-family: Craft;
+    color: white;
+}
+p{
+    font-family: craft;
+    color: white;
+}
+strong{
+    font-family: craft;
+    color:rgb(58, 58, 58);
+}
+#button1{
+    background-color: rgb(177, 177, 177) ;
+    position: relative;
+    left: 30rem;
+    width: 15rem;
+    height: 3rem;
+}
+#button2{
+    background-color: rgb(177, 177, 177) ;
+    position: relative;
+    left: 35rem;
+    width: 15rem;
+    height: 3rem;
 }
