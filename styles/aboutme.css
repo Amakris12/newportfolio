@@ -61,3 +61,11 @@ strong{
     width: 15rem;
     height: 3rem;
 }
+#sound{
+    background-color: rgb(177, 177, 177) ;
+    position: relative;
+    left: 35rem;
+    top: 5rem;
+    width: 15rem;
+    height: 3rem;
+}

@@ -1,0 +1,78 @@
+@font-face{
+    font-family: madden;
+    src: url(../fonts/EASPORTS15.ttf);
+}
+body{
+    background-image: url("../images/madden.jpg");
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: madden;
+    position: relative;
+    top: 2rem;
+    font-size: 4rem;
+    text-decoration: underline;
+}
+#div{
+    display: flex;
+    flex-direction: row;
+}
+button{
+    position: relative;
+    top: 33.9rem;
+    right: 6rem;
+    width: 12rem;
+    height: 12rem;
+    background-color: rgb(59, 59, 59) ;
+    opacity: 1;
+}
+h2{
+    color: white;
+    font-family: madden;
+}
+img{
+    width: 10rem;
+    height: 7rem;
+}
+#topper{
+    position: relative;
+    top: 35.7rem;
+    width: 30rem;
+}
+#home{
+    position: absolute;
+    left: 80.5rem;
+    top: 41rem;
+}
+#header{
+    margin-left: 3rem;
+}
+#head2{
+    margin-left: 10rem;
+}
+#main{
+    margin-top: .7rem;
+    height: 10rem;
+    width: 15rem;
+}
+h3{
+    color: white;
+    font-family: madden;
+    position: absolute;
+    left: 40rem;
+    top: 54rem;
+}
+#sound{
+    position: relative;
+    top: 0rem;
+    text-align: center;
+    font-size: 2rem;
+}
+#track{
+    position: absolute;
+    top: 3rem;
+    left: 63rem;
+    width: 30rem;
+    border: white .2rem groove;
+}
