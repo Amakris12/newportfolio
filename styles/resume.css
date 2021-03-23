@@ -5,9 +5,10 @@
 body{
     background-image: url("../images/madden.jpg");
     background-size: cover;
+    overflow-x: hidden;
 }
 h1{
-    color: white;
+    color: black;
     font-family: madden;
     position: relative;
     top: 2rem;
@@ -20,12 +21,12 @@ h1{
 }
 button{
     position: relative;
-    top: 33.9rem;
+    top: 25.9rem;
     right: 6rem;
     width: 12rem;
     height: 12rem;
     background-color: rgb(59, 59, 59) ;
-    opacity: 1;
+    opacity: .9;
 }
 h2{
     color: white;
@@ -37,15 +38,21 @@ img{
 }
 #topper{
     position: relative;
-    top: 35.7rem;
+    top: 27.7rem;
     width: 30rem;
 }
 #home{
     position: absolute;
     left: 80.5rem;
-    top: 41rem;
+    top: 37.8rem;
 }
 #header{
+    color:black;
+    top: 2rem;
+    left: 6rem;
+    font-size: 4rem;
+    width: 30rem;
+    text-align: center;
     margin-left: 3rem;
 }
 #head2{
@@ -72,7 +79,7 @@ h3{
 #track{
     position: absolute;
     top: 3rem;
-    left: 63rem;
-    width: 30rem;
-    border: white .2rem groove;
+    left: 69rem;
+    width: 25rem;
+    border: black .2rem groove;
 }
