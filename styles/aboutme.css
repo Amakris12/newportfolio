@@ -73,3 +73,6 @@ strong{
     width: 15rem;
     height: 3rem;
 }
+#foobar{
+    display: none 
+}

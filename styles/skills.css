@@ -45,3 +45,39 @@ a:hover{
 h2:hover{
     color: white;
 }
+h3{
+    color: rgb(163, 10, 10);
+    font-family: fantasy;
+    font-size: 5rem;
+}
+#skills{
+    display: none;
+    position: absolute;
+    left: 33rem;
+    top: 5rem;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
+}
+#h1skill{
+    color: rgb(255, 255, 255);
+}
+ul{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: rgb(124, 0, 0);
+}
+li{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+#Training{
+    display: none;
+    position: absolute;
+    left: 33rem;
+    top: 28rem;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
+}
+#h1Train{
+    color: rgb(255, 255, 255);
+}
