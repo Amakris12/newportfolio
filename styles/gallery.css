@@ -6,6 +6,7 @@
 body{
     background-image: url("../images/arkham.png");
     background-size: cover;
+    overflow-y: hidden;
 }
 button{
     position: absolute;
@@ -38,4 +39,45 @@ h1{
     font-size: 3rem;
     font-family: Dc;
     color: white;
-}   
+} 
+.cards{
+    position: absolute;
+    top: 2rem;
+    left: 3.4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+} 
+#cards2{
+    position: absolute;
+    top: 23rem;
+    left: 3.4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+} 
+.card{
+    display: none;
+    color: white;
+    width: 20rem;
+    background-color: rgba(58, 58, 58,.9);
+    box-shadow: 2px 2px 2px 2px black;
+}
+img{
+    height: 8rem;
+    width: 15rem;
+}
+h3{
+    display: none;
+    color: white;
+    position: absolute;
+    left: 60rem;
+    top: 35rem;
+    font-size: 7rem;
+    font-family: Dc;
+}
+#home{
+    position: absolute;
+    left: 65rem;
+    bottom: 30rem;
+}
