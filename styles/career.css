@@ -1,0 +1,16 @@
+@font-face{
+    font-family: justice;
+    src: url("../fonts/CODE\ Bold.otf");
+}
+body{
+    background-image: url("../images/injustice.jpg");
+    background-size: cover;
+    background-position: top 2rem;    
+}
+h1{
+    color: #B08E11;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 8rem;
+    font-family: justice;
+}
