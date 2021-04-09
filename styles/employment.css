@@ -1,0 +1,75 @@
+@font-face{
+    font-family: COD;
+    src: url("../fonts/Call\ of\ Ops\ Duty.otf");
+}
+
+body{
+    background-image: url("../images/cod.jpg");
+    background-position: center;
+    background-position-y:-10rem ;
+    background-position-x: center;
+    overflow-x: hidden;
+}
+h1{
+    font-family: COD;
+    color: rgb(255, 115, 0);
+    font-size: 5rem;
+    position: relative;
+    top: 2rem;
+    left: 3rem;
+    box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
+    width: 28rem;
+}
+#bottom{
+    left: 7.5rem;
+    width: 18rem;
+}
+button{
+    position: relative;
+    left: 6rem;
+    top: 3rem;
+    background-color: rgb(39, 39, 39) ;
+    height: 9rem;
+    width: 20rem;
+    opacity: .9;
+    box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
+}
+h3{
+    color: rgb(255, 115, 0);
+}
+#hid{
+    left:11rem;
+    font-size: 3rem;
+    text-align: center;
+    box-shadow: none;
+    border: none;
+}
+#divjob{
+    display: none;
+    background-color: rgba(39, 39, 39,.9);
+    position: absolute;
+    top: 16rem;
+    left: 40rem;
+    box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
+    width: 50rem;
+}
+#divcom{
+    display: none;
+    background-color: rgba(39, 39, 39,.9);
+    position: absolute;
+    top: 30rem;
+    left: 40rem;
+    box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
+    width: 50rem;
+}
+p{
+    text-align: center;
+    font-size: COD;
+    color: rgb(255, 115, 0);
+}
+#name{
+    position: absolute;
+    width: 40rem;
+    left: 55rem;
+    text-align: center;
+}

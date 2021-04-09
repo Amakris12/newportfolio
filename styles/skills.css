@@ -1,6 +1,6 @@
 @font-face{
     font-family: sport;
-    src: url("../fonts/SportypoReguler-OVGwe.ttf");
+    src: url("../fonts/JackportCollegeNcv-1MZe.ttf");
 }
 body{
     background-image: url("../images/2k.jpg");
@@ -11,7 +11,7 @@ h1{
     font-family: sport;
     text-align: center;
     color: gold;
-    font-size: 2.3rem;
+    font-size: 4rem;
 }
 div{
     width: 30rem;
@@ -23,12 +23,13 @@ button{
     width: 25rem;
     height: 7.3rem;
     background-color: black;
+    color: gold;
     opacity: .7;
     box-shadow: 2px 2px 2px 2px rgb(48, 48, 48);
 }
 h2{
     font-family: sport;
-    font-size: 2rem;
+    font-size: 3rem;
     color: gold;
 }
 #div2{
@@ -79,5 +80,98 @@ li{
     box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
 }
 #h1Train{
+    font-size: 3rem;
     color: rgb(255, 255, 255);
+}
+#sound{
+    position: relative;
+    top: 0rem;
+    text-align: center;
+    height: 33rem;
+    font-size: 3rem;
+}
+#track{
+    position: absolute;
+    top: 3rem;
+    left: 70rem;
+    width: 23rem;
+    box-shadow: 2px 2px 2px 2px rgb(34, 34, 34);
+}
+#song1{
+    position: absolute;
+    left: 2rem;
+    top: 4rem;
+    width: 7rem;
+    height: 3rem;
+}
+#s1{
+    font-size: 2rem;
+    position: absolute;
+    top: 4.5rem;
+    left: 13rem;
+}
+#song2{
+    position: absolute;
+    left: 2rem;
+    top: 8rem;
+    width: 7rem;
+    height: 3rem;
+}
+#s2{
+    font-size: 2rem;
+    position: absolute;
+    top: 8.5rem;
+    left: 13rem;
+}
+#song3{
+    position: absolute;
+    left: 2rem;
+    top: 12rem;
+    width: 7rem;
+    height: 3rem;
+}
+#s3{
+    font-size: 2rem;
+    position: absolute;
+    top: 12.5rem;
+    left: 13rem;
+}
+#song4{
+    position: absolute;
+    left: 2rem;
+    top: 16rem;
+    width: 7rem;
+    height: 3rem;
+}
+#s4{
+    font-size: 2rem;
+    position: absolute;
+    top: 16.5rem;
+    left: 13rem;
+}
+#song5{
+    position: absolute;
+    left: 2rem;
+    top: 20rem;
+    width: 7rem;
+    height: 3rem;
+}
+#s5{
+    font-size: 2rem;
+    position: absolute;
+    top: 20.5rem;
+    left: 13rem;
+}
+#song6{
+    position: absolute;
+    left: 2rem;
+    top: 24rem;
+    width: 7rem;
+    height: 3rem;
+}
+#s6{
+    font-size: 2rem;
+    position: absolute;
+    top: 24.5rem;
+    left: 13rem;
 }
