@@ -64,16 +64,6 @@ h2{
     left: 31rem;
     top: 44rem;
 }
-
-#plus{
-	width: 3em;
-	background-image: url("https://s20.postimg.org/9jdjr9lml/plus.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	float: left;
-}
-
 #info{
 	width: 3em;
 	background-image: url("https://i.postimg.cc/m2x13xDd/info.png");
@@ -100,32 +90,12 @@ h2{
 	float: left;
 }
 
-#user{
-	margin-left: 1em;
-	width: 3em;
-	background-image: url("https://s20.postimg.org/yvwsexlfh/user.png");
-	background-size: 140%;
-	background-repeat: no-repeat;
-	background-position: center;
-	float: left;
-}
-
 #userName{
 	color: white;
 	font-family: arial;
 	width: 25%;
 	float: left;
 	line-height: 3em;
-}
-
-#trophies{
-	margin-left: 1em;
-	width: 3em;
-	background-image: url("https://i.postimg.cc/wTKmp1Cx/trophy.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	float: left;
 }
 
 #clock{
@@ -191,10 +161,6 @@ h2{
 }
 /*SQUARE IMAGE*****************************************/
 
-.ascii{
-	font-weight: bold;
-}
-
 .ps{
 	background-image: url("../images/aboutme.png");
 }
@@ -203,22 +169,22 @@ h2{
 	background-image: url("../images/aboutme.png");
 }
 
-.overwatch{
+.resume{
 	background-image: url("../images/resume2.png");
 }
 
-.rocketLeague{
+.skill{
 	background-image: url("../images/skills.png");
 }
 
-.cod{
+.career{
 	background-image: url("../images/Career.png");
 }
 
-.furi{
+.work{
 	background-image: url("../images/work.png");
 }
-.youtube{
+.gallary{
 	background-image: url("../images/gallery.png");
 }
 .box {

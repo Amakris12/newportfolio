@@ -49,7 +49,7 @@ h3{
     background-color: rgba(39, 39, 39,.9);
     position: absolute;
     top: 16rem;
-    left: 40rem;
+    left: 45rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
     width: 50rem;
 }
@@ -58,7 +58,7 @@ h3{
     background-color: rgba(39, 39, 39,.9);
     position: absolute;
     top: 30rem;
-    left: 40rem;
+    left: 45rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
     width: 50rem;
 }
@@ -70,6 +70,6 @@ p{
 #name{
     position: absolute;
     width: 40rem;
-    left: 55rem;
+    left: 50rem;
     text-align: center;
 }

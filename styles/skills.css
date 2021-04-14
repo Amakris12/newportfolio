@@ -56,6 +56,8 @@ h3{
     position: absolute;
     left: 33rem;
     top: 5rem;
+    background-color: rgb(49, 49, 49);
+    opacity: .9;
     box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
 }
 #h1skill{
@@ -69,7 +71,7 @@ ul{
 }
 li{
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: white;
     font-size: 2rem;
 }
 #Training{
@@ -77,6 +79,8 @@ li{
     position: absolute;
     left: 33rem;
     top: 28rem;
+    background-color: rgb(49, 49, 49);
+    opacity: .9;
     box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
 }
 #h1Train{

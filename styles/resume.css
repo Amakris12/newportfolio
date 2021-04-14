@@ -8,7 +8,7 @@ body{
     overflow-x: hidden;
 }
 h1{
-    color: rgb(0, 146, 214);
+    color: rgb(49, 49, 49);
     font-family: madden;
     position: relative;
     top: 2rem;
@@ -49,13 +49,14 @@ img{
     top: 37.8rem;
 }
 #header{
-    color:rgb(0, 146, 214);
+    color:rgb(13, 0, 199);
     top: 2rem;
     left: 2rem;
     font-size: 4rem;
     width: 30rem;
     text-align: center;
     margin-left: 3rem;
+    box-shadow: 2px 2px 2px 2px rgb(34, 34, 34);
 }
 #head2{
     margin-left: 10rem;
@@ -93,15 +94,13 @@ h3{
     top: 12rem;
     width: 65rem;
     height: 25rem;
-    box-shadow: 2px 2px 2px 2px rgb(34, 34, 34);
 }
 #myresume{
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: 45rem;
+    position: relative;
+    left: 4rem;
+    width: 60rem;
     height: 25rem;
-    box-shadow: 2px 2px 2px 2px rgb(34, 34, 34);
+    box-shadow: 2px 3px 2px 3px rgb(34, 34, 34);
 }
 #h1Res{
     font-size: 2rem;
