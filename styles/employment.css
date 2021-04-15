@@ -14,23 +14,31 @@ h1{
     font-family: COD;
     color: rgb(255, 115, 0);
     font-size: 5rem;
-    position: relative;
-    top: 2rem;
-    left: 3rem;
+    text-align: center;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
-    width: 28rem;
+}
+#top{
+    font-size: 8rem;
+    background-color: rgb(39, 39, 39) ;
+    opacity: .9;
+    position: relative;
+    top: .05rem;
+    width: 100rem;
+    height: 9rem;
 }
 #bottom{
     left: 7.5rem;
     width: 18rem;
 }
 button{
-    position: relative;
-    left: 6rem;
-    top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     background-color: rgb(39, 39, 39) ;
     height: 9rem;
     width: 20rem;
+    position: relative;
+    top: 2rem;
     opacity: .9;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
 }
@@ -38,33 +46,51 @@ h3{
     color: rgb(255, 115, 0);
 }
 #hid{
-    left:11rem;
+    display: none;
+    position: absolute;
+    left: 5rem;
     font-size: 3rem;
-    text-align: center;
-    box-shadow: none;
-    border: none;
+    top: 11rem;
+    width: 30rem ;
+    opacity: .9;
+    box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
+    background-color: rgba(39, 39, 39,.9);
+}
+#hid2{
+    display: none;
+    position: absolute;
+    left: 63rem;
+    font-size: 3rem;
+    top: 11rem;
+    width: 30rem ;
+    opacity: .9;
+    box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
+    background-color: rgba(39, 39, 39,.9);
 }
 #divjob{
     display: none;
     background-color: rgba(39, 39, 39,.9);
     position: absolute;
     top: 16rem;
-    left: 45rem;
+    left: 5rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
-    width: 50rem;
+    width: 30rem;
+    height: 30rem;
 }
 #divcom{
     display: none;
     background-color: rgba(39, 39, 39,.9);
     position: absolute;
-    top: 30rem;
-    left: 45rem;
+    top: 16rem;
+    left:63rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
-    width: 50rem;
+    width: 30rem;
+    height: 30rem;
 }
 p{
     text-align: center;
     font-size: COD;
+    font-size: 1.3rem;
     color: rgb(255, 115, 0);
 }
 #name{
@@ -72,4 +98,7 @@ p{
     width: 40rem;
     left: 50rem;
     text-align: center;
+}
+a{
+    color: rgb(255, 115, 0);
 }

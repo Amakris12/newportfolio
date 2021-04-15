@@ -15,7 +15,23 @@ h1{
     font-family: justice;
 }
 #but{
-    top: 24rem;
+    top: 26rem;
+    box-shadow: 2px 2px 2px 2px #B08E11;
+    left: 18.5vw;
+    width: 20rem;
+    height: 10rem;
+    opacity: .9;
+}
+#but1{
+    top: 26rem;
+    box-shadow: 2px 2px 2px 2px #B08E11;
+    left: 18.5vw;
+    width: 20rem;
+    height: 10rem;
+    opacity: .9;
+}
+#but2{
+    top: 26rem;
     box-shadow: 2px 2px 2px 2px #B08E11;
     left: 18.5vw;
     width: 20rem;
@@ -26,17 +42,66 @@ button{
     font-family: justice;
 }
 #home{
-    position: relative;
-    bottom: 2rem;
+    position: absolute;
+    top: 5rem;
+    left: 4rem;
     background-color: transparent;
     color: white;
     box-shadow: 2px 2px 2px 2px #B08E11;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    width: 8rem;
+    height: 3rem;
+}
+#next{
+    position: absolute;
+    top: 5rem;
+    left: 82.5rem;
+    background-color: transparent;
+    color: white;
+    box-shadow: 2px 2px 2px 2px #B08E11;
     width: 8rem;
     height: 3rem;
 }
 a{
     text-decoration: none;
+}
+#left{
+    display: none;
+    background-color: rgb(34, 34, 34);
+    opacity: .9;
+    box-shadow: 2px 2px 2px 2px #B08E11;
+    position: absolute;
+    left: 4rem;
+    top: 12rem;
+    height: 25rem;
+    width:20rem;
+}
+#mid{
+    display: none;
+    background-color: rgb(34, 34, 34);
+    opacity: .9;
+    box-shadow: 2px 2px 2px 2px #B08E11;
+    position: absolute;
+    left: 33rem;
+    top: 15rem;
+    height: 20rem;
+    width:30rem;
+}
+#right{
+    display: none;
+    background-color: rgb(34, 34, 34);
+    opacity: .9;
+    box-shadow: 2px 2px 2px 2px #B08E11;
+    position: absolute;
+    left: 71.5rem;
+    top: 12rem;
+    height: 25rem;
+    width:20rem;
+}
+#section{
+    font-size: 2rem;
+}
+p{
+    color: #B08E11;
+    font-size: 1.4rem;
+    text-align: center;
 }

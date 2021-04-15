@@ -1,0 +1,9 @@
+$('#but').click(function(){
+    $('#left').show(2000);
+});
+$('#but1').click(function(){
+    $('#mid').show(2000);
+});
+$('#but2').click(function(){
+    $('#right').show(2000);
+});

@@ -15,7 +15,7 @@ header{
 	z-index: 999;
 }
 
-video{
+#vid{
     width: 20rem;
     height: 20rem;
     position: absolute;
