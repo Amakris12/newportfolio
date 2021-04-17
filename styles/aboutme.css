@@ -76,3 +76,12 @@ strong{
 #foobar{
     display: none 
 }
+#button3{
+    background-color: transparent ;
+    position: relative;
+    left: 75rem;
+    top: -3rem;
+    width: 15rem;
+    height: 3rem;
+    box-shadow: 4px 4px 4px 4px black;
+}

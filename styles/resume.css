@@ -28,6 +28,8 @@ button{
     opacity: .9;
 }
 #first{
+    position: relative;
+    top: 30.7rem;
     width: 49rem;
 }
 h2{
@@ -40,7 +42,7 @@ img{
 }
 #topper{
     position: relative;
-    top: 27.7rem;
+    top: 32.56rem;
     width: 30rem;
 }
 #home{
@@ -53,7 +55,7 @@ img{
     top: 2rem;
     left: 2rem;
     font-size: 4rem;
-    width: 30rem;
+    width: 50rem;
     text-align: center;
     margin-left: 3rem;
     box-shadow: 2px 2px 2px 2px rgb(34, 34, 34);
@@ -91,7 +93,7 @@ h3{
     display: none;
     position: absolute;
     left: 1rem;
-    top: 12rem;
+    top: 8rem;
     width: 65rem;
     height: 25rem;
 }
@@ -99,7 +101,7 @@ h3{
     position: relative;
     left: 4rem;
     width: 60rem;
-    height: 25rem;
+    height: 29rem;
     box-shadow: 2px 3px 2px 3px rgb(34, 34, 34);
 }
 #h1Res{
