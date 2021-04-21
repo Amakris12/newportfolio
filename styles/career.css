@@ -105,3 +105,8 @@ p{
     font-size: 1.4rem;
     text-align: center;
 }
+audio{
+    position: relative;
+    bottom: 3rem;
+    right: 21rem;
+}

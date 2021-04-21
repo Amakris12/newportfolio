@@ -102,3 +102,8 @@ p{
 a{
     color: rgb(255, 115, 0);
 }
+audio{
+    position: absolute;
+    top: 47rem;
+    right: 38.5rem;
+}

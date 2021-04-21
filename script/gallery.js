@@ -5,6 +5,7 @@ $('#website').on('click', function(){
     $('.card').toggle(500);
     $('h3').show(1000);
     $('#closer').show(1000);
+    $('#aud').show(1000);
     $("#background").css("background-image","url('../images/batman.jpg')",1000).css('margin-left','2rem')
 });
 
