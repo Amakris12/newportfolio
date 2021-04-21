@@ -85,3 +85,8 @@ strong{
     height: 3rem;
     box-shadow: 4px 4px 4px 4px black;
 }
+audio{
+    position: absolute;
+    right: 3rem;
+    top: 5rem;
+}
