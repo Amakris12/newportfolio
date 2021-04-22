@@ -2,6 +2,13 @@ $("#first").click(function(){
     console.log("show");
     $("#Resume").fadeIn(2000);
     $("#Service").fadeOut(2000);
+    $("#pey").fadeOut(2000);
+    $("#one").fadeOut(2000);
+    $("#fitz").fadeOut(2000);
+    $("#obj").fadeOut(2000);
+    $("#gro").fadeOut(2000);
+    $("#players").fadeOut(2000);
+    $("#goat").fadeOut(2000);
 });
 $("#two").click(function(){
     console.log("show");
