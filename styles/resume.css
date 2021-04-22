@@ -229,3 +229,38 @@ h3{
     top: 24.5rem;
     left: 13rem;
 }
+#obj{
+    position: absolute;
+    left: 5rem;
+    top: -3rem;
+    width: 55rem;
+    height: 30rem;
+}
+#gro{
+    position: absolute;
+    left: 1rem;
+    top: 15rem;
+    width: 40rem;
+    height: 20rem;
+}
+#goat{
+    position: absolute;
+    left: 25rem;
+    top: 15rem;
+    width: 40rem;
+    height: 24rem;
+}
+#one{
+    position: absolute;
+    left: 15rem;
+    top: 15rem;
+    width: 40rem;
+    height: 24rem;
+}
+#fitz{
+    position: absolute;
+    left: -1rem;
+    top: 22rem;
+    width: 20rem;
+    height: 13rem;
+}
