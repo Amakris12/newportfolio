@@ -22,7 +22,7 @@ h1{
     background-color: rgb(39, 39, 39) ;
     opacity: .9;
     position: relative;
-    top: .05rem;
+    top: 38rem;
     width: 100rem;
     height: 9rem;
 }
@@ -30,62 +30,64 @@ h1{
     left: 7.5rem;
     width: 18rem;
 }
+#butto{
+    position: absolute;
+    top: 3rem;
+    left: 13rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 button{
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
     background-color: rgb(39, 39, 39) ;
-    height: 9rem;
-    width: 20rem;
-    position: relative;
-    top: 2rem;
     opacity: .9;
+    width: 20rem;
+    height: 10rem;
+    margin-left: 2rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
 }
 h3{
     color: rgb(255, 115, 0);
 }
 #hid{
-    display: none;
+
     position: absolute;
-    left: 5rem;
+    left: 7.8rem;
     font-size: 3rem;
-    top: 11rem;
+    top: 15rem;
     width: 30rem ;
     opacity: .9;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
     background-color: rgba(39, 39, 39,.9);
 }
 #hid2{
-    display: none;
     position: absolute;
-    left: 63rem;
+    left: 60.5rem;
     font-size: 3rem;
-    top: 11rem;
+    top: 15rem;
     width: 30rem ;
     opacity: .9;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
     background-color: rgba(39, 39, 39,.9);
 }
 #divjob{
-    display: none;
+
     background-color: rgba(39, 39, 39,.9);
     position: absolute;
-    top: 16rem;
+    top: 20rem;
     left: 5rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
-    width: 30rem;
-    height: 30rem;
+    width: 35rem;
+    height: 25rem;
 }
 #divcom{
-    display: none;
     background-color: rgba(39, 39, 39,.9);
     position: absolute;
-    top: 16rem;
-    left:63rem;
+    top: 20rem;
+    left:58rem;
     box-shadow: 2px 2px 2px 2px rgb(255, 115, 0);
-    width: 30rem;
-    height: 30rem;
+    width: 35rem;
+    height: 25rem;
 }
 p{
     text-align: center;
@@ -104,6 +106,13 @@ a{
 }
 audio{
     position: absolute;
-    top: 47rem;
+    top: 27rem;
     right: 38.5rem;
+    width: 17rem;
+}
+#employ{
+    display: none;
+}
+#service{
+    display: none;
 }
