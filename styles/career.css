@@ -110,3 +110,38 @@ audio{
     bottom: 3rem;
     right: 21rem;
 }
+#query{
+    display: flex;
+    justify-content:flex-start;
+    flex-direction: row;
+}
+#fir{
+    display: none;
+}
+#two{
+    display: none;
+}
+#three{
+    display: none;
+    position: relative;
+    top: 0rem;
+}
+#four{
+    display: none;
+}
+#fiv{
+    display: none;
+    position: relative;
+    top: 0rem;
+}
+#show{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    display: block;
+    color:#B08E11 ;
+    box-shadow:1px 1px 1px 1px #B08E11;
+}
+source{
+    background-color: rgb(34, 34, 34);
+}

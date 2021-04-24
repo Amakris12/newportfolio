@@ -3,6 +3,11 @@ $('#but').click(function(){
 });
 $('#but1').click(function(){
     $('#mid').show(2000);
+    $('#fir').fadeIn(5000);
+    $('#two').fadeIn(7000);
+    $('#three').fadeIn(9000);
+    $('#four').fadeIn(11000);
+    $('#fiv').fadeIn(13000);
 });
 $('#but2').click(function(){
     $('#right').show(2000);

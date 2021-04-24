@@ -105,7 +105,7 @@ li{
     position: absolute;
     left: 2rem;
     top: 4rem;
-    width: 7rem;
+    width: 20rem;
     height: 3rem;
 }
 #s1{
@@ -118,7 +118,7 @@ li{
     position: absolute;
     left: 2rem;
     top: 8rem;
-    width: 7rem;
+    width: 20rem;
     height: 3rem;
 }
 #s2{
@@ -131,7 +131,7 @@ li{
     position: absolute;
     left: 2rem;
     top: 12rem;
-    width: 7rem;
+    width: 20rem;
     height: 3rem;
 }
 #s3{
@@ -144,7 +144,7 @@ li{
     position: absolute;
     left: 2rem;
     top: 16rem;
-    width: 7rem;
+    width: 20rem;
     height: 3rem;
 }
 #s4{
@@ -157,7 +157,7 @@ li{
     position: absolute;
     left: 2rem;
     top: 20rem;
-    width: 7rem;
+    width: 20rem;
     height: 3rem;
 }
 #s5{
@@ -170,7 +170,7 @@ li{
     position: absolute;
     left: 2rem;
     top: 24rem;
-    width: 7rem;
+    width: 20rem;
     height: 3rem;
 }
 #s6{
@@ -178,4 +178,13 @@ li{
     position: absolute;
     top: 24.5rem;
     left: 13rem;
+}
+.player {
+    position: relative;
+    width: 500px;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    border-radius: 2px;
+    padding: 5 16px;
 }
